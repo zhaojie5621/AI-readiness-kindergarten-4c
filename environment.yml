@@ -1,0 +1,25 @@
+name: ai-readiness-4c
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pip
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - statsmodels
+  - matplotlib
+  - openpyxl
+  - jupyter
+  - notebook
+  - ipykernel
+  - pip:
+      - factor-analyzer
+      - semopy
+      - xgboost
+      - lightgbm
+      - catboost
+      - shap
+      - joblib
+      - tqdm
