@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it using the metadata below."
+title: "AI Readiness in Kindergarten Education: 4C Framework"
+type: software
+version: 0.1.0
+date-released: 2026-07-30
+authors:
+  - family-names: "Zhao"
+    given-names: "Jie"
+    affiliation: "School of Literature and Education, Bengbu University, No. 1866 Caoshan Road, Bengbu, Anhui 233030, China"
+repository-code: "https://github.com/zhaojie5621/AI-readiness-kindergarten-4c"
+url: "https://github.com/zhaojie5621/AI-readiness-kindergarten-4c"
+license: MIT
+abstract: >
+  Reproducible analyses, source code, and supporting resources for the
+  Competence-Confidence-Caution-Context (4C) framework of artificial
+  intelligence readiness and professional-development priorities in
+  kindergarten education.
+keywords:
+  - artificial intelligence readiness
+  - kindergarten education
+  - early-childhood education
+  - professional development
+  - structural equation modeling
+  - machine learning
+  - AI literacy
+  - responsible AI
+preferred-citation:
+  type: article
+  title: "Artificial Intelligence Readiness and Professional Development Priorities in Chinese Kindergarten Education: Triangulating Evidence with SEM and Explainable Machine Learning"
+  authors:
+    - family-names: "Kumar"
+      given-names: "Raman"
+  year: 2026
+  status: "Manuscript under preparation"
