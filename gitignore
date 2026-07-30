@@ -1,0 +1,142 @@
+# -----------------------------
+# Sensitive and restricted data
+# -----------------------------
+data/raw/
+data/restricted/
+data/private/
+**/*respondent*.csv
+**/*respondent*.xlsx
+**/*participant*.csv
+**/*participant*.xlsx
+**/*raw_data*.csv
+**/*raw_data*.xlsx
+**/*confidential*
+**/*private*
+**/*restricted*
+
+# -----------------------------
+# Credentials and secrets
+# -----------------------------
+.env
+.env.*
+*.pem
+*.key
+*.crt
+*.p12
+*.pfx
+credentials.json
+secrets.json
+token.json
+*.token
+*.secret
+
+# -----------------------------
+# Python
+# -----------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.python-version
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+conda-env/
+
+# -----------------------------
+# Jupyter / Colab temporary files
+# -----------------------------
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+*.tmp.ipynb
+
+# -----------------------------
+# IDE and operating-system files
+# -----------------------------
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# -----------------------------
+# Microsoft Office temporary files
+# -----------------------------
+~$*.docx
+~$*.xlsx
+~$*.pptx
+*.asd
+*.wbk
+*.tmp
+
+# -----------------------------
+# EndNote / reference-manager files
+# -----------------------------
+*.enl
+*.enlx
+*.data/
+*.Myi
+*.MyD
+*.rdb
+*.rmx
+
+# -----------------------------
+# Turnitin and review materials
+# -----------------------------
+**/*turnitin*
+**/*similarity_report*
+**/*reviewer_comment*
+**/*response_to_reviewer*
+**/*editor_correspondence*
+
+# -----------------------------
+# Logs and caches
+# -----------------------------
+*.log
+logs/
+cache/
+tmp/
+temp/
+
+# -----------------------------
+# Large generated model artifacts
+# -----------------------------
+*.pkl
+*.pickle
+*.joblib
+*.h5
+*.hdf5
+*.onnx
+*.pt
+*.pth
+
+# Keep documented non-identifying outputs
+!outputs/
+!outputs/**
+!supplementary/
+!supplementary/**
+
+# -----------------------------
+# Archives
+# -----------------------------
+*.zip
+*.rar
+*.7z
+*.tar
+*.tar.gz
+
+# -----------------------------
+# Optional local configuration
+# -----------------------------
+config.local.yml
+config.local.yaml
+local_settings.py
