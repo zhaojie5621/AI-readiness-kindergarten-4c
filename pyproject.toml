@@ -1,0 +1,23 @@
+[project]
+name = "ai-readiness-kindergarten-4c"
+version = "0.1.0"
+description = "Reproducible analysis tools for the 4C framework of AI readiness in kindergarten education."
+requires-python = ">=3.12"
+license = {text = "MIT"}
+authors = [
+  {name = "Jie Zhao"}
+]
+keywords = [
+  "artificial intelligence readiness",
+  "early-childhood education",
+  "professional development",
+  "structural equation modeling",
+  "machine learning"
+]
+
+[tool.ruff]
+line-length = 88
+target-version = "py312"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

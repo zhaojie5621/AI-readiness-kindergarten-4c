@@ -1,11 +1,31 @@
-# Supplementary Tables
+# Execution and Audit Scripts
 
-Store each supplementary table in a machine-readable format.
+## Repository audit
 
-Recommended naming:
+Run:
 
-- `table_s1_*.csv`
-- `table_s2_*.csv`
-- `table_s3_*.csv`
+```bash
+python scripts/audit_repository.py
+```
 
-The table number, title, notebook source, and verification status should also be recorded in `supplementary_manifest_template.csv`.
+The script checks required files, notebook structure, `.gitignore`, and filenames that may require privacy or licence review.
+
+## Execute all notebooks
+
+After the verified analytical code and permitted local inputs are available, run:
+
+```bash
+python scripts/run_all.py
+```
+
+Executed copies are written to `outputs/executed_notebooks/`.
+
+## Make commands
+
+On systems with `make`:
+
+```bash
+make install
+make audit
+make run
+```
