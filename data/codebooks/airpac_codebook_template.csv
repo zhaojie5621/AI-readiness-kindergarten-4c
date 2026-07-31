@@ -1,0 +1,7 @@
+variable,description,type,coding,notes
+respondent_id,Local-only identifier,string/integer,,Do not upload publicly
+ai_literacy,Composite AI literacy score,numeric,Higher = greater literacy,Verify item map
+risk_perception,Composite generalized AI risk perception,numeric,Higher = greater perceived risk,Verify item map
+academic_confidence,Composite academic confidence score,numeric,Higher = greater confidence,Verify item map
+future_ai_use_intention,Composite future AI-use intention score,numeric,Higher = stronger intention,Primary outcome
+prior_ai_use,Previous AI-tool use,categorical/numeric,Verify coding,Predictor/covariate

@@ -5,11 +5,11 @@ type: software
 version: 0.1.0
 date-released: 2026-07-30
 authors:
-  - family-names: "Zhao"
-    given-names: "Jie"
-    affiliation: "School of Literature and Education, Bengbu University, No. 1866 Caoshan Road, Bengbu, Anhui 233030, China"
-repository-code: "https://github.com/zhaojie5621/AI-readiness-kindergarten-4c"
-url: "https://github.com/zhaojie5621/AI-readiness-kindergarten-4c"
+  - family-names: "Kumar"
+    given-names: "Raman"
+    affiliation: "Guru Nanak Dev Engineering College, Ludhiana, India"
+repository-code: "https://github.com/REPLACE_WITH_USERNAME/ai-readiness-kindergarten-4c"
+url: "https://github.com/REPLACE_WITH_USERNAME/ai-readiness-kindergarten-4c"
 license: MIT
 abstract: >
   Reproducible analyses, source code, and supporting resources for the

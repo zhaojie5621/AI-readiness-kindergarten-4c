@@ -1,0 +1,9 @@
+variable,description,type,coding,notes
+respondent_id,Local-only identifier,string/integer,,Do not upload publicly
+capability,Self-reported AI-related capability,numeric,Higher = greater capability,Verify scale construction
+pd_usefulness,Perceived usefulness of professional development,numeric,Higher = greater perceived benefit,
+platform_value,Perceived platform value,numeric,Higher = greater value,
+privacy_security,Privacy and security concerns/awareness,numeric,Verify direction,
+human_oversight,Preference for human monitoring and oversight,numeric,Higher = stronger oversight preference,
+ai_acceptance,AI acceptance,numeric,Higher = greater acceptance,Primary outcome
+barriers,Implementation impediments,numeric,Verify coding,

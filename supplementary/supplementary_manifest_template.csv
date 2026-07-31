@@ -1,0 +1,7 @@
+supplementary_item,expected_file,repository_location,source_notebook,status
+Table S1,search_and_selection_summary.csv,supplementary/supplementary_tables/,03_china_evidence_synthesis.ipynb,Pending
+Table S2,construct_crosswalk.csv,supplementary/supplementary_tables/,04_cross_study_synthesis.ipynb,Pending
+Table S3,airpac_measurement_results.csv,supplementary/supplementary_tables/,01_airpac_analysis.ipynb,Pending
+Table S4,airpac_profile_selection.csv,supplementary/supplementary_tables/,01_airpac_analysis.ipynb,Pending
+Table S5,vietnam_path_model_results.csv,supplementary/supplementary_tables/,02_vietnam_ece_analysis.ipynb,Pending
+Table S9,reproducibility_inventory.csv,supplementary/supplementary_tables/,All notebooks,Pending

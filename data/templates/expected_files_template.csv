@@ -1,0 +1,5 @@
+resource,expected_filename,expected_location,sharing_status,expected_size
+AIRPAC-Q,airpac_q.csv,data/raw/,Restricted/local only,528
+Vietnam ECE,vietnam_ece.csv,data/raw/,Restricted/local only,426
+China evidence register,china_evidence_register.xlsx,inputs/china_evidence_register/,Shareable if study-level only,5 studies
+Construct crosswalk,construct_crosswalk.xlsx,inputs/construct_crosswalk/,Shareable,
