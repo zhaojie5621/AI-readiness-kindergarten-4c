@@ -1,0 +1,8 @@
+analysis,expected_file,expected_location,minimum_contents
+AIRPAC CFA,fit_indices.csv,outputs/diagnostics/airpac/,"CFI, RMSEA, SRMR, chi-square, df"
+AIRPAC SEM,path_estimates.csv,outputs/diagnostics/airpac/,Standardized and unstandardized estimates
+AIRPAC profiles,gmm_selection.csv,outputs/diagnostics/airpac/,"AIC, BIC, convergence, class sizes"
+AIRPAC ML,fold_predictions.csv,outputs/diagnostics/airpac/,Out-of-fold predictions and metrics
+Vietnam path analysis,path_estimates.csv,outputs/diagnostics/vietnam/,Direct and indirect effects
+Vietnam profiles,gmm_selection.csv,outputs/diagnostics/vietnam/,"AIC, BIC, convergence, class sizes"
+Vietnam ML,fold_predictions.csv,outputs/diagnostics/vietnam/,Out-of-fold predictions and metrics

@@ -1,0 +1,7 @@
+manuscript_item,expected_file,repository_location,publication_location,source_notebook,status
+Table 1,study_characteristics.csv,outputs/tables/,Main manuscript,03_china_evidence_synthesis.ipynb,Pending verification
+Table 2,airpac_model_results.csv,outputs/tables/,Main manuscript,01_airpac_analysis.ipynb,Pending verification
+Table 3,vietnam_path_results.csv,outputs/tables/,Main manuscript,02_vietnam_ece_analysis.ipynb,Pending verification
+Table 4,cross_study_synthesis.csv,outputs/tables/,Main manuscript,04_cross_study_synthesis.ipynb,Pending verification
+Figure 1,study_workflow_source.csv,supplementary/figure_source_data/,Main manuscript,04_cross_study_synthesis.ipynb,Pending verification
+Figure 2,four_c_framework_source.csv,supplementary/figure_source_data/,Main manuscript,04_cross_study_synthesis.ipynb,Pending verification
